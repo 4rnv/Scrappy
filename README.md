@@ -1,4 +1,4 @@
-A Python script to scrape URLs from a webpage and archive them to the Wayback machine. Uses Beautiful Soup to parse a page for anchor tags and then saves them using the Archive.org API.
+A Python script to scrape URLs from a webpage and archive them to the Wayback machine. Uses Beautiful Soup to parse a page for anchor tags and then saves them using the Archive.org API. The name is supposed to be scrap.py as in scrapping plus python.
 
 # Usage
 
